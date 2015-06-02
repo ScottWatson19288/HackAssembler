@@ -1,0 +1,5 @@
+For the class Nand2Tetris Part I
+
+run the ruby file with one of the .asm files as input and it outpust the binary translation
+
+ruby HackAssembler Max
